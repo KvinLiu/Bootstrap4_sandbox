@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a757a56f-7692-4ebb-8924-e96325521f3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2_7_sizing.html" afterPath="$PROJECT_DIR$/2_7_sizing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2_8_breakpoints.html" afterPath="$PROJECT_DIR$/2_8_breakpoints.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,15 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2_7_sizing.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2_7_sizing.html">
+      <file leaf-file-name="2_8_breakpoints.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_8_breakpoints.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="105" column="75" lean-forward="false" selection-start-line="105" selection-start-column="75" selection-end-line="105" selection-end-column="75" />
-              <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="613">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,6 +51,7 @@
         <option value="$PROJECT_DIR$/2_5_colors_background.html" />
         <option value="$PROJECT_DIR$/2_6_spacing.html" />
         <option value="$PROJECT_DIR$/2_7_sizing.html" />
+        <option value="$PROJECT_DIR$/2_8_breakpoints.html" />
       </list>
     </option>
   </component>
@@ -168,12 +165,12 @@
       <workItem from="1505095432072" duration="140000" />
       <workItem from="1505095703433" duration="485000" />
       <workItem from="1505204441429" duration="5066000" />
-      <workItem from="1505213069199" duration="506000" />
+      <workItem from="1505213069199" duration="1120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6197000" />
+    <option name="totallyTimeSpent" value="6811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
@@ -310,6 +307,14 @@
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_8_breakpoints.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
