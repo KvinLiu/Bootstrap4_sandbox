@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a757a56f-7692-4ebb-8924-e96325521f3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2_8_breakpoints.html" afterPath="$PROJECT_DIR$/2_8_breakpoints.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_2_buttons.html" afterPath="$PROJECT_DIR$/3_2_buttons.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,12 +26,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2_8_breakpoints.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2_8_breakpoints.html">
+      <file leaf-file-name="3_2_buttons.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_2_buttons.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="775">
+              <caret line="198" column="58" lean-forward="false" selection-start-line="198" selection-start-column="58" selection-end-line="198" selection-end-column="58" />
+              <caret line="199" column="58" lean-forward="false" selection-start-line="199" selection-start-column="58" selection-end-line="199" selection-end-column="58" />
+              <caret line="200" column="58" lean-forward="false" selection-start-line="200" selection-start-column="58" selection-end-line="200" selection-end-column="58" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,6 +56,7 @@
         <option value="$PROJECT_DIR$/2_6_spacing.html" />
         <option value="$PROJECT_DIR$/2_7_sizing.html" />
         <option value="$PROJECT_DIR$/2_8_breakpoints.html" />
+        <option value="$PROJECT_DIR$/3_2_buttons.html" />
       </list>
     </option>
   </component>
@@ -165,12 +170,12 @@
       <workItem from="1505095432072" duration="140000" />
       <workItem from="1505095703433" duration="485000" />
       <workItem from="1505204441429" duration="5066000" />
-      <workItem from="1505213069199" duration="1120000" />
+      <workItem from="1505213069199" duration="3023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6811000" />
+    <option name="totallyTimeSpent" value="8714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
@@ -211,7 +216,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -305,7 +310,7 @@
           <caret line="105" column="75" lean-forward="false" selection-start-line="105" selection-start-column="75" selection-end-line="105" selection-end-column="75" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -315,6 +320,18 @@
         <state relative-caret-position="613">
           <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_2_buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="198" column="58" lean-forward="false" selection-start-line="198" selection-start-column="58" selection-end-line="198" selection-end-column="58" />
+          <caret line="199" column="58" lean-forward="false" selection-start-line="199" selection-start-column="58" selection-end-line="199" selection-end-column="58" />
+          <caret line="200" column="58" lean-forward="false" selection-start-line="200" selection-start-column="58" selection-end-line="200" selection-end-column="58" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
