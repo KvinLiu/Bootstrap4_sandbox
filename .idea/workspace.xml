@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a757a56f-7692-4ebb-8924-e96325521f3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5_2_carousel.html" afterPath="$PROJECT_DIR$/5_2_carousel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5_3_collapse.html" afterPath="$PROJECT_DIR$/5_3_collapse.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +27,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="5_2_carousel.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="5_2_carousel.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5_2_carousel.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="714">
               <caret line="193" column="26" lean-forward="false" selection-start-line="193" selection-start-column="26" selection-end-line="193" selection-end-column="26" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5_3_collapse.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_3_collapse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="127" column="55" lean-forward="false" selection-start-line="127" selection-start-column="55" selection-end-line="127" selection-end-column="55" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -68,6 +81,7 @@
         <option value="$PROJECT_DIR$/4_4_flexbox.html" />
         <option value="$PROJECT_DIR$/4_5_auto_margins_wrapping_order.html" />
         <option value="$PROJECT_DIR$/5_2_carousel.html" />
+        <option value="$PROJECT_DIR$/5_3_collapse.html" />
       </list>
     </option>
   </component>
@@ -181,12 +195,12 @@
       <workItem from="1505095432072" duration="140000" />
       <workItem from="1505095703433" duration="485000" />
       <workItem from="1505204441429" duration="5066000" />
-      <workItem from="1505213069199" duration="21187000" />
+      <workItem from="1505213069199" duration="22375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26878000" />
+    <option name="totallyTimeSpent" value="28066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
@@ -498,6 +512,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="193" column="26" lean-forward="false" selection-start-line="193" selection-start-column="26" selection-end-line="193" selection-end-column="26" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_3_collapse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="127" column="55" lean-forward="false" selection-start-line="127" selection-start-column="55" selection-end-line="127" selection-end-column="55" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
