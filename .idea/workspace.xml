@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a757a56f-7692-4ebb-8924-e96325521f3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_3_navbar.html" afterPath="$PROJECT_DIR$/3_3_navbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_4_list_groups_badges.html" afterPath="$PROJECT_DIR$/3_4_list_groups_badges.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_5_forms.html" afterPath="$PROJECT_DIR$/3_5_forms.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3_4_list_groups_badges.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3_4_list_groups_badges.html">
+      <file leaf-file-name="3_5_forms.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_5_forms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="159" column="45" lean-forward="false" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="45" />
+            <state relative-caret-position="652">
+              <caret line="197" column="30" lean-forward="true" selection-start-line="197" selection-start-column="30" selection-end-line="197" selection-end-column="30" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -58,6 +58,7 @@
         <option value="$PROJECT_DIR$/3_2_buttons.html" />
         <option value="$PROJECT_DIR$/3_3_navbar.html" />
         <option value="$PROJECT_DIR$/3_4_list_groups_badges.html" />
+        <option value="$PROJECT_DIR$/3_5_forms.html" />
       </list>
     </option>
   </component>
@@ -171,12 +172,12 @@
       <workItem from="1505095432072" duration="140000" />
       <workItem from="1505095703433" duration="485000" />
       <workItem from="1505204441429" duration="5066000" />
-      <workItem from="1505213069199" duration="7658000" />
+      <workItem from="1505213069199" duration="8929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13349000" />
+    <option name="totallyTimeSpent" value="14620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
@@ -361,8 +362,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3_4_list_groups_badges.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="159" column="45" lean-forward="false" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="45" />
+        <state relative-caret-position="633">
+          <caret line="127" column="82" lean-forward="false" selection-start-line="127" selection-start-column="82" selection-end-line="127" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_5_forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="197" column="30" lean-forward="true" selection-start-line="197" selection-start-column="30" selection-end-line="197" selection-end-column="30" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
