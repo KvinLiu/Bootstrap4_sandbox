@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a757a56f-7692-4ebb-8924-e96325521f3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5_5_popovers.html" afterPath="$PROJECT_DIR$/5_5_popovers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5_6_modals.html" afterPath="$PROJECT_DIR$/5_6_modals.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,13 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="5_5_popovers.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5_5_popovers.html">
+      <file leaf-file-name="5_6_modals.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_6_modals.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="944">
-              <caret line="193" column="7" lean-forward="false" selection-start-line="193" selection-start-column="7" selection-end-line="193" selection-end-column="7" />
+            <state relative-caret-position="561">
+              <caret line="123" column="81" lean-forward="false" selection-start-line="123" selection-start-column="81" selection-end-line="123" selection-end-column="81" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#5633#5640#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,6 +72,7 @@
         <option value="$PROJECT_DIR$/5_3_collapse.html" />
         <option value="$PROJECT_DIR$/5_5_popovers.html" />
         <option value="$PROJECT_DIR$/5_4_tooltips.html" />
+        <option value="$PROJECT_DIR$/5_6_modals.html" />
       </list>
     </option>
   </component>
@@ -190,12 +191,12 @@
       <workItem from="1505095432072" duration="140000" />
       <workItem from="1505095703433" duration="485000" />
       <workItem from="1505204441429" duration="5066000" />
-      <workItem from="1505213069199" duration="25602000" />
+      <workItem from="1505213069199" duration="26387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31293000" />
+    <option name="totallyTimeSpent" value="32078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
@@ -523,14 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_6_modals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5_4_tooltips.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="639">
@@ -543,10 +536,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5_5_popovers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="944">
+        <state relative-caret-position="770">
           <caret line="193" column="7" lean-forward="false" selection-start-line="193" selection-start-column="7" selection-end-line="193" selection-end-column="7" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_6_modals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="123" column="81" lean-forward="false" selection-start-line="123" selection-start-column="81" selection-end-line="123" selection-end-column="81" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#5633#5640#1" expanded="true" />
           </folding>
         </state>
       </provider>
